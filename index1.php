@@ -5,5 +5,6 @@
  * Date: 29.01.2019
  * Time: 10:04
  */
-echo "Hello world!!! master";
+echo "Hello world!!!";
+echo "1234567";
 ?>
