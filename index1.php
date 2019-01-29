@@ -6,4 +6,5 @@
  * Time: 10:04
  */
 echo "Hello world!!!";
+echo "1234567";
 ?>
